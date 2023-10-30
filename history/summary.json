@@ -4,19 +4,19 @@
     "url": "https://mk1yoyos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mk1yoyos.com.ico",
     "slug": "mk1-yoyos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1168,
-    "timeDay": 768,
-    "timeWeek": 1168,
-    "timeMonth": 1168,
-    "timeYear": 1168,
+    "status": "up",
+    "uptime": "95.34%",
+    "uptimeDay": "76.73%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "95.34%",
+    "time": 1041,
+    "timeDay": 560,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 335
     }
   }
 ]
