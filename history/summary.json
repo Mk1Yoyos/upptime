@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mk1yoyos.com.ico",
     "slug": "mk1-yoyos",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
-    "time": 684,
-    "timeDay": 627,
-    "timeWeek": 728,
-    "timeMonth": 547,
-    "timeYear": 684,
+    "uptimeYear": "99.40%",
+    "time": 678,
+    "timeDay": 463,
+    "timeWeek": 661,
+    "timeMonth": 559,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-10-30": 335
     }
