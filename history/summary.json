@@ -4,7 +4,7 @@
     "url": "https://mk1yoyos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mk1yoyos.com.ico",
     "slug": "mk1-yoyos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 427,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2024-01-06": 0,
       "2023-10-30": 335
     }
   }
